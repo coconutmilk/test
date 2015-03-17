@@ -6,7 +6,7 @@
     using System.Data.SqlClient;
     using System.Text;
 
-    public class DataHelper
+    public class DataHelper2
     {
         public static string GetContent(string table, string value)
         {

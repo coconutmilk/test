@@ -8,7 +8,7 @@
     using System.Web;
     using System.Configuration;
 
-    public class SQLServerHelper
+    public class SQLServerHelper2
     {
         public static string dbServer = "";
         public static string dbUser = "";
